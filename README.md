@@ -9,3 +9,6 @@
 ![image](https://github.com/user-attachments/assets/840f91f0-4a16-46cb-abe8-b04d07d39389)
 ![image](https://github.com/user-attachments/assets/f56470b6-8dbb-428e-bebd-c688672fd0c7)
 
+Auto generated application after approved by respective authorities
+![image](https://github.com/user-attachments/assets/ef446fb1-d9ad-42cc-b92c-a0ef15d16ba7)
+
