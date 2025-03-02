@@ -1,0 +1,17 @@
+{
+  "faculty": "67c3cf2870ae5650406413a5",
+  "email": "hod.cse@sggs.ac.in",
+  "password": "12456",
+  "position": "Head of Department",
+  "department":"Computer Science & Engineering",
+  "signature": "https://example.com/signature.png"
+}
+
+{
+  "faculty": "67c3d13770ae5650406413ba",
+  "email": "hod.etc@sggs.ac.in",
+  "password": "12456",
+  "position": "Head of Department",
+  "department":"Electronics & Telecommunication Engineering",
+  "signature": "https://example.com/signature.png"
+}
