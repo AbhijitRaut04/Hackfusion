@@ -1,0 +1,62 @@
+{
+    "registrationNo":"CSE1", 
+    "name":"Suwarna Bansode", 
+    "email":"smbansode@sggs.ac.in", 
+    "password":123456, 
+    "department":"Computer Science & Engineering", 
+    "phone":"9876123456"
+}
+
+{
+    "registrationNo":"CSE_HOD", 
+    "name":"Suwarna Bansode", 
+    "email":"hod.cse@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Computer Science & Engineering", 
+    "phone":"9876123456"
+}
+
+{
+    "registrationNo":"CSE2", 
+    "name":"Raosaheb k Chavan", 
+    "email":"rkchavan@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Computer Science & Engineering", 
+    "phone":"9495969783"
+}
+
+{
+    "registrationNo":"CSE3", 
+    "name":"Uday V Kulkarni", 
+    "email":"uvkulkarni@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Computer Science & Engineering", 
+    "phone":"8823456784"
+}
+
+{
+    "registrationNo":"CSE4", 
+    "name":"Jaishri M Waghmare", 
+    "email":"jmwaghmare@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Computer Science & Engineering", 
+    "phone":"8823456781"
+}
+
+{
+    "registrationNo":"CSE5", 
+    "name":"Amit V Nandedkar", 
+    "email":"avnandedkar@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Computer Science & Engineering", 
+    "phone":"8823456711"
+}
+
+{
+    "registrationNo":"ETC_HOD", 
+    "name":"M V Bhalerao", 
+    "email":"hod.etc@sggs.ac.in", 
+    "password":"123456", 
+    "department":"Electronics and Telecommunication Engineering", 
+    "phone":"8877364588"
+}
